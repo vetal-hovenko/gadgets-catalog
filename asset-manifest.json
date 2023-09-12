@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/gadgets-catalog/static/css/main.7b27dff9.css",
+    "main.js": "/gadgets-catalog/static/js/main.e76c1e23.js",
+    "static/media/banner1.jpg": "/gadgets-catalog/static/media/banner1.f2e2b25e141f8da5d07c.jpg",
+    "static/media/Mont-Regular.otf": "/gadgets-catalog/static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-SemiBold.otf": "/gadgets-catalog/static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
+    "static/media/Mont-Bold.otf": "/gadgets-catalog/static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/banner2.jpg": "/gadgets-catalog/static/media/banner2.0224b017554e57c38dcc.jpg",
+    "static/media/tablets.jpg": "/gadgets-catalog/static/media/tablets.1cd80f184257da4197b4.jpg",
+    "static/media/accessories.jpg": "/gadgets-catalog/static/media/accessories.46086f4b34f430e75ceb.jpg",
+    "static/media/mobile.jpg": "/gadgets-catalog/static/media/mobile.e8c1d4ca515d3c546fff.jpg",
+    "static/media/banner3.png": "/gadgets-catalog/static/media/banner3.209d53f251cd1e030427.png",
+    "static/media/cart.svg": "/gadgets-catalog/static/media/cart.89133a0a9c316350dc18.svg",
+    "static/media/favorites.svg": "/gadgets-catalog/static/media/favorites.e304ade2dd035c625345.svg",
+    "static/media/logo.svg": "/gadgets-catalog/static/media/logo.2d8d3e42e8ed3af32cbb.svg",
+    "static/media/search.svg": "/gadgets-catalog/static/media/search.eb670dd9ac01a47e6e00.svg",
+    "static/media/close.svg": "/gadgets-catalog/static/media/close.3ea864f59fecb8596c4b.svg",
+    "index.html": "/gadgets-catalog/index.html",
+    "main.7b27dff9.css.map": "/gadgets-catalog/static/css/main.7b27dff9.css.map",
+    "main.e76c1e23.js.map": "/gadgets-catalog/static/js/main.e76c1e23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b27dff9.css",
+    "static/js/main.e76c1e23.js"
+  ]
+}
